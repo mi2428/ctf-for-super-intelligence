@@ -1,0 +1,61 @@
+{
+  "echo": {
+    "length": 32,
+    "width": 6,
+    "deck": {
+      "000011": 1,
+      "000101": 1,
+      "000110": 1,
+      "001001": 1,
+      "001011": 1,
+      "001100": 3,
+      "001110": 1,
+      "010011": 1,
+      "010110": 1,
+      "011000": 2,
+      "011001": 3,
+      "011101": 1,
+      "100001": 1,
+      "100010": 1,
+      "100100": 1,
+      "100110": 2,
+      "100111": 1,
+      "101100": 2,
+      "110000": 1,
+      "110001": 1,
+      "110010": 1,
+      "110011": 2,
+      "110110": 1,
+      "111011": 1
+    }
+  },
+  "chamber": {
+    "vertices": 9,
+    "edges": [
+      [0, 1], [1, 2], [2, 3], [3, 4],
+      [4, 5], [5, 6], [6, 7], [7, 8],
+      [0, 3], [0, 5], [0, 8], [1, 4],
+      [1, 7], [2, 5], [2, 8], [3, 6],
+      [4, 7], [5, 8], [2, 6]
+    ],
+    "moments": [9, 0, 38, 6, 254, 100, 1952]
+  },
+  "canon": [
+    {"id": "00", "word": "ttaaTTattAATTA"},
+    {"id": "01", "word": "taaTTattAATTAt"},
+    {"id": "02", "word": "TTaaattaTTAAAttA"},
+    {"id": "03", "word": "TaaataTAAAtA"},
+    {"id": "04", "word": "ttaaaaaaaaTTaaattAAAAAAAATTAAA"},
+    {"id": "05", "word": "TataTAtA"},
+    {"id": "06", "word": "taaTatAATA"},
+    {"id": "07", "word": "taaTAAATaaatAA"},
+    {"id": "08", "word": "taTTattATTAt"},
+    {"id": "09", "word": "ttaaaaTTattAAAATTA"},
+    {"id": "10", "word": "taTAttaTatATATatAT"},
+    {"id": "11", "word": "taTAttaaTAAATatAT"},
+    {"id": "12", "word": "taTatATATaaatAAataTAtAT"},
+    {"id": "13", "word": "TTaaaaaaaaattaaTTAAAAAAAAAttAA"},
+    {"id": "14", "word": "taTatATA"},
+    {"id": "15", "word": "ttaaaTTtaTttAAATTtAT"}
+  ]
+}
