@@ -1,0 +1,29 @@
+{
+  "rows": [
+    {"id": "t00", "person": "A", "seat": "w"},
+    {"id": "t01", "person": "A", "seat": "x"},
+    {"id": "t02", "person": "A", "seat": "y"},
+    {"id": "t03", "person": "B", "seat": "w"},
+    {"id": "t04", "person": "B", "seat": "x"},
+    {"id": "t05", "person": "B", "seat": "z"},
+    {"id": "t06", "person": "C", "seat": "x"},
+    {"id": "t07", "person": "C", "seat": "y"},
+    {"id": "t08", "person": "C", "seat": "z"},
+    {"id": "t09", "person": "D", "seat": "w"},
+    {"id": "t10", "person": "D", "seat": "y"},
+    {"id": "t11", "person": "D", "seat": "z"},
+    {"id": "t12", "person": "A", "seat": "z"},
+    {"id": "t13", "person": "C", "seat": "w"}
+  ],
+  "zones": {
+    "w": 0,
+    "x": 0,
+    "y": 1,
+    "z": 1
+  },
+  "query": {
+    "name": "Q0",
+    "persons": ["A", "B", "C"],
+    "zone_pattern": "first-equals-third-differs-from-second"
+  }
+}
