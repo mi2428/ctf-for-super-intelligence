@@ -1,0 +1,62 @@
+{
+  "bases": {
+    "U": [
+      "abABabABcaCA",
+      "caCbABcbCaBA",
+      "abAcBCabABcaCA"
+    ],
+    "V": [
+      "abABabABabABcbCBabABacACbaBA",
+      "bcBCabABabABabABcbCBabABacACbaBA",
+      "abABcaCAbaBAbcBC"
+    ],
+    "P": [
+      "abABacAC",
+      "bcBCabABacAC",
+      "caCAbcBC"
+    ],
+    "Q": [
+      "aabAcacACCbcBCBabAcacACCBA",
+      "abbcBCBabAcacACCBA",
+      "abccaCACbcBCBA"
+    ]
+  },
+  "transport": [
+    {"id": "00", "word": "BAtacACbaBAbaBAcaCbABabABcaCATabABcaCAbaBAbcBCbcBCab"},
+    {"id": "01", "word": "tAsabABacAbCaBAcbCBSabbcBCBtabAcBCabABcaCbABabABcaCATabABcaCAbaBAbcBCbaBAbaBAbaBAcbCBabABacACbaBAabAbcBcaCACaBAbcbCBccaCACaBAAaT"},
+    {"id": "02", "word": "BCscbCBacACabAcBCbcBCabABacACSabccaCACaBAbcbCBcbCBaBAbcbCBccaCACaBAtTbccaCACbcBCBAcb"},
+    {"id": "03", "word": "BbtabAcBCbaBcACTbcBCabABabABabABscbCaBASaabAcacACCbcBCBabAbcBCBAcbCBabABacACbaBABb"},
+    {"id": "04", "word": "sTtabAcBCabABcaCATabABcaCAbaBAbcBCtS"},
+    {"id": "05", "word": "tBscaCAbaBAcbCBcaCAbaBAcbCtacACbaBAbaBcACTbcBCabABabABabABBcaCAbcBCSabcbCBcacACCbcBCBabAcacACCbcBCBabAcacACCBAbT"},
+    {"id": "06", "word": "BbtaTsbStATsBSBb"},
+    {"id": "07", "word": "tataTsbStATsBSAT"},
+    {"id": "08", "word": "SBscbCaBAcaCAtabABabABcaCbABabABcaCATabABcaCAbaBAbcBCbaBAbaBAcaCAbaBAbcBCbaBAbaBAbaBAbcBaCAbcBCSabcbCBcacACbCBcacACCBabAcacACCbcBCBabAbcBCBAbs"},
+    {"id": "09", "word": "SAsaSasASAas"},
+    {"id": "10", "word": "TctbTbtBTBCt"},
+    {"id": "11", "word": "bbtaTsbStATsBSBB"},
+    {"id": "12", "word": "SAtaTsbStATsBSas"},
+    {"id": "13", "word": "tsscaCAbcBCbcBCabAcBaCAbcBaCAbaBASaabAcacACCtabABcbCaBATabABcaCAbaBAbcBCabABcaCAbaBAbcBCbaBAbaBAbaBAbcBCBabAcacACbCBcacACbCBaBAbcbCBcbCBcacACCBAST"},
+    {"id": "14", "word": "AssaSbsASBSa"},
+    {"id": "15", "word": "TcsbcBCabABacACSabccaCAtabAcBCbaBcACacACbaBAcbCaBATabABcaCAbaBAbcBCbcBCabABabABabABcbCBabABacACbaBACaBAbcbCBBACt"},
+    {"id": "16", "word": "aCtabAcBCabAscaCAbcBaCAbcBCSabcbCBcacACbCBcacACCBABcaCATcbCBabABacACbaBAcA"},
+    {"id": "17", "word": "aBtaTctATCbA"},
+    {"id": "18", "word": "cTtacACbaBAbcBCbaBcACabAcBCbaBcACabABabABcaCATabABcaCAbaBAbcBCbaBAbaBAbaBAbcBCabABabABabABcbCBabABacACbaBAbcBCabABabscaCAbaBAcbCBcbCBacACSabccaCACbcBCbcBCBabAcacACCBAABabABcbCBabABacACabABabABcbCBabABacACbaBAtC"},
+    {"id": "19", "word": "BBtabAcBCbaBcACacACbaBAbaBcACbaBAcbCaBATbaBAbaBAcaCAbaBAbcBCbaBAbaBAbaBAcbCBbb"},
+    {"id": "20", "word": "bBtabAcBCbaBcACabAcBCbaBcACacACbaBAbaBATabABabABabABcbCBabABacACbaBAbcBCabABabABabABcbscbCBacAbCBacACSabccaCACbcBcaCACbcBCBACBabABacACbaBAbcBCabABabABabABcbCBabABacACbaBAbB"},
+    {"id": "21", "word": "CssbcBtabABabABcaCbAcBCbaBcACTbcBCCabABacACbcBaCAbcBaCAbaBAcbCBSabbcBCBabAcacACbCBcacACbCBBASc"},
+    {"id": "22", "word": "BataTsbStATsBSAb"},
+    {"id": "23", "word": "cttaTsbStATsBSTC"},
+    {"id": "24", "word": "SbscaCAbaBAcbCatabAcBCbaBATabABabABabABcbCBabABacACbaBAcbCBabABacACbaBABAcbCBSabbcBCBabAbcBCBabAcacACCbcBCBabAcacACCBABs"},
+    {"id": "25", "word": "tstabAcBCabABcaCbAcBCbaBcACabAcBCbaBcACacACbaBAbcBCbaBcACTbcBCabscaCAbcBaCAbcBCSabcbCBcacACbCBcacACCBAABabABabABcbCBabABacACabABabABcbCBabABacACbaBAbcBCabABabABabABcbCBabABacACbaBAbcBCabABabABabABcbCBabABacACbaBAcbCBabABacACbaBAST"},
+    {"id": "26", "word": "AtscaCAbaBAcbCaBAcaCAbaBASaabAcacACCbcBCBabAcacACCBabAcacACCbcBCBabAbcBCBabAtabAcBCabABcaCbABabABcaCATabABcaCAbaBAbcBCbaBAbaBAbaBAcbCBabABacACbaBAcacACCbcBCBabAcacACCBATa"},
+    {"id": "27", "word": "SbtacACbaBAbcBCabABcaCbAcBCabABcaCATcbCBabABacACbaBAcbCBabABacscbCaBAcbCBSabbcBCBabAbcBCBAACabABabABcbCBabABacACbaBABs"},
+    {"id": "28", "word": "CtscaCAbaBAcbCBSabccaCACaBAbcbCBBATc"},
+    {"id": "29", "word": "CTtabAcBCbaBcACabAcBCabABcaCAcaCbABcbCBabABcaCbAcBCabABcaCATbaBAbaBAcaCAbaBAbcBCbaBAbaBAbaBAcbCBcbCBabABacACbaBAbcsabABacACabABacACSabccaCACaBAbcbCBccaCACaBAbccaCACaBAbcbCBccaCACaBAABCabABabABabABcbCBabABacACbaBAtc"},
+    {"id": "30", "word": "CCsbSbsBSBcc"},
+    {"id": "31", "word": "CCtaTatATAcc"},
+    {"id": "32", "word": "cttacACbaBAcbCBabABcaCAcaCbABcbCBabABcaCATabABcaCAbaBAbcBCbaBAbaBAcaCAbaBAbcBCbaBAbaBAbaBAcbCBabABcaCAbaBscaCAbaBAcaCAbaBASaabAcacACCbcBCBabAcacACCBabAcacACCbcBCBabAcacACCBAAbcBCbaBAbaBAcaCAbaBAbcBCTC"},
+    {"id": "33", "word": "cBscaCAbaBAcaCAbaBAcaCAbaBASabccaCACaBAbcbCBccaCACaBAbccaCACaBAbcbCBccaCACaBAbccaCACaBAbcbCBccaCACaBAAbC"},
+    {"id": "34", "word": "AstabAcBCbaBcACacACbaBAcbCaBATabABcaCAbaBAbcBCbcBCabABabAsabABacAbCBacACSabccaCACbcBcaCACaBAbcbCBccaCACaBAABabABcbCBabABacACbaBASa"},
+    {"id": "35", "word": "sTscbCBacACabABacAbCBacACSabcbCBcacACCBabAcacACCbcBCBabAcacACbCBcacACCBAtS"}
+  ]
+}
